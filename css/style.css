@@ -8,13 +8,11 @@ header {
     background-color: #ccc;
     background-repeat: no-repeat;
     position: relative;
-
 }
 
 .top-container {
     width: 90%;
     margin: 0 auto;
-
 }
 
 
@@ -100,7 +98,6 @@ button {
     margin: 0 27px 0 40px;
 }
 
-
 .slider {
     display: flex;
     flex-wrap: wrap;
@@ -116,7 +113,6 @@ button {
 .slider-left:hover {
     fill: #998675;
 }
-
 
 .slider-body {
     width: 545px;
@@ -189,7 +185,6 @@ button {
     width: 1920px;
     bottom: 19px;
     text-align: center;
-
 }
 
 .pagination a {
@@ -201,9 +196,7 @@ button {
     border-radius: 50%;
     margin: 5px;
     border: 2px solid transparent;
-
 }
-
 
 .pagination a:hover {
     border: 2px solid #cfbeaa;
@@ -242,29 +235,21 @@ button {
 }
 
 .icon-wrap:hover .icon-svg {
-
     fill: #998675;
-
 }
 
 .icon-wrap:hover span {
-
     color: #998675;
-
 }
 
 
 .icon-wrap:hover:after {
-
     background-color: #998675;
-
 }
 
 .web:hover:after {
     background-color: gold;
 }
-
-
 
 .icon-wrap span {
     display: block;
@@ -323,7 +308,7 @@ margin: 50px 0 0 0;
 .img-2{
      position: absolute;
     z-index: 5;
-left:30%;
+    left:30%;
     bottom: 3px;
 }
 
@@ -340,12 +325,6 @@ left:30%;
     z-index: 99; 
 }
 
-
-
-
-
-
-
 .ads{
     width: 1920px;
     min-height: 150px;
@@ -355,12 +334,10 @@ left:30%;
     align-items: center;
     background-color: #4e3427;
     background: linear-gradient(to left, #4e3427, #211b19);
-
 }
 
 .ads{
     color: #fff;
-   
 }
 
 .ads-1{
@@ -374,7 +351,7 @@ font-family: Raleway;
 font-size: 28px;
 font-weight: 400;
 margin: auto;
-    
+   
 }
 
 .first-word{
@@ -396,8 +373,7 @@ font-weight: 300;
     text-decoration: none;
     width: 166px;
     height: 50px;
- 
-}
+ }
 
 .ads-btn span {
     display: block;
